@@ -3,7 +3,7 @@
 import com.ctl.bookstore.domain.Account;
 
 /**
- * Account接口
+ * Account
  */
 public interface AccountDAO {
 
